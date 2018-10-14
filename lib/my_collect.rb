@@ -1,8 +1,3 @@
-#array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
-
-#my_collect(array) do |name|
- # name.split(" ").first
-#end
 
 def my_collect(array)
 
@@ -14,6 +9,5 @@ def my_collect(array)
  return array 
 end
 
-my_collect(collection) do |lang|
-  lang.upcase
+
 end
