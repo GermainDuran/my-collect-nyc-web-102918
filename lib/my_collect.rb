@@ -1,15 +1,15 @@
 
-def my_collect(array)
+#def my_collect(array)
 
- i=0 
- while (i<array.length)
-  yield array[i] 
-  if array[i] 
+ #i=0 
+ #while (i<array.length)
+  #yield array[i] 
+  #if array[i] 
    
-   i=i+1
- end
- array 
-end
+   #i=i+1
+ #end
+ #array 
+#end
 
 def my_collect(collection)
   i = 0
